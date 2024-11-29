@@ -21,7 +21,7 @@ repository               : "danj1000/danj1000.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Daniel.jpg"
   name             : "Daniel Johnson, Computer Science PhD Student"
   pronouns         : # example: "she/her"  
   bio              : "Nothing motivates me more than when someone tells me something is impossible."
