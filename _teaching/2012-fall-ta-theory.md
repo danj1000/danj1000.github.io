@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-fall-ta-theory
 venue: "Brigham Young University, Computer Science Department"
-date: Fall 2012
+date: 2012-09-01
 location: "Provo, Utah, USA"
 ---
 
