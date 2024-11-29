@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "Daniel.jpg"
   name             : "Daniel Johnson, Computer Science PhD Student"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him/his"  
   bio              : "Nothing motivates me more than when someone tells me something is impossible."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Farmington, Utah, USA"
+  employer         : "The University of Utah"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "d.johnson@utah.edu" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
