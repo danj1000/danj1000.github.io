@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science PhD student at The University of Utah. I am researching probabilistic machine learning under the supervision of [Dr Shandian Zhe](https://users.cs.utah.edu/~zhe/). Prior to returning to school for a PhD, I received a master's degree in computer science from Brigham Young University and worked as a software engineer in the industry for over a decade. My employment history includes several years of work in some of the world's largest codebases at both Microsoft and Meta. I acquired marketable skills and learned several open source technologies at Medidata and Clearwater Analytics. I have extensive programming experience in object oriented and functional languages including (but not limited to) Python, C#, Java, Clojure, SQL, and PHP. Additionally, many of my roles have been focused on applied ML. For example, at Meta I built ML models to rank comment ordering on popular Facebook posts. At Medidata, I worked with data scientists to tune ML models and deploy them in AWS SageMaker. At Clearwater Analytics, I improved deep learning models used for NLP sequence labeling. Before my experiences in industry and university, I was a high school valedictorian and also achieved the highest rank of Eagle Scout in the Boy Scouts of America.
+I am a computer science PhD student at The University of Utah. I am researching probabilistic machine learning under the supervision of [Dr Shandian Zhe](https://users.cs.utah.edu/~zhe/). 
+
+Prior to returning to school for a PhD, I received a master's degree in computer science from Brigham Young University and worked as a software engineer in the industry for over a decade. My employment history includes several years of work in some of the world's largest codebases at both Microsoft and Meta. I acquired marketable skills and learned several open source technologies at Medidata and Clearwater Analytics. I have extensive programming experience in object oriented and functional languages including (but not limited to) Python, C#, Java, Clojure, SQL, and PHP. 
+
+Additionally, many of my roles have been focused on applied ML. For example, at Meta I built ML models to rank comment ordering on popular Facebook posts. At Medidata, I worked with data scientists to tune ML models and deploy them in AWS SageMaker. At Clearwater Analytics, I improved deep learning models used for NLP sequence labeling. 
+
+Before my experiences in industry and university, I was a high school valedictorian and also achieved the highest rank of Eagle Scout in the Boy Scouts of America.
 
 <!---
 A data-driven personal website
