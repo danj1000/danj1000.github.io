@@ -6,7 +6,6 @@ permalink: /publication/2017-musical-motif-discovery
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-01-01
 venue: 'Computers in Entertainment (CIE)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/2888403'
 citation: 'Johnson, Daniel and Ventura, Dan. (2017). &quot;Musical motif discovery from non-musical inspiration sources.&quot; <i>Computers in Entertainment (CIE)</i>. 14(2).'
 ---
