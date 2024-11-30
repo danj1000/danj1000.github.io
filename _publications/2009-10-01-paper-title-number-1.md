@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Musical motif discovery from non-musical inspiration sources"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-musical-motif-discovery
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2017-01-01
+venue: 'Computers in Entertainment (CIE)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://dl.acm.org/doi/10.1145/2888403'
+citation: 'Johnson, Daniel and Ventura, Dan. (2017). &quot;Musical motif discovery from non-musical inspiration sources.&quot; <i>Computers in Entertainment (CIE)</i>. 14(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Many music composition algorithms attempt to compose music in a particular style. The resulting music is often impressive and indistinguishable from the style of the training data, but it tends to lack significant innovation. In an effort to increase innovation in the selection of pitches and note durations, we present a system that discovers musical motifs by coupling machine-learning techniques with an inspirational component. Unlike many generative models, the inspirational component allows the composition process to originate outside of what is learned from the training data. Candidate motifs are extracted from non-musical data such as audio, images, and sleep signals. Machine-learning algorithms select the motifs that most resemble the training data. We find that the inspirational motif discovery process is more efficient than random generation. We also extract motifs from real music scores, identify themes in the piece according to a theme database, and measure the probability of discovering thematic motifs verses non-thematic motifs. We examine the information content of the motifs by comparing the entropy of the discovered motifs, candidate motifs, and training data. We measure innovation by comparing the probability of the training data and the probability of the discovered motifs given the model.
