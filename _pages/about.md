@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a computer science PhD student at The University of Utah. I am researching probabilistic machine learning under the supervision of [Dr Shandian Zhe](https://users.cs.utah.edu/~zhe/). Prior to returning to school for a PhD, I was an industry software engineer for over a decade. My employment history includes several years of work in some of the world's largest codebases at both Microsoft and Meta. I acquired marketable skills and learned several open source technologies at Medidata and Clearwater Analytics. I have extensive programming experience in object oriented and functional languages including (but not limited to) Python, C#, Java, Clojure, SQL, and PHP. Additionally, many of my roles have been focused on applied ML. For example, at Meta I built ML models to rank comment ordering on popular Facebook posts. At Medidata, I worked with data scientists to tune ML models and deploy them in AWS SageMaker. At Clearwater Analytics, I improved deep learning models used for NLP sequence labeling. Before my experiences in industry and university, I was a high school valedictorian and also achieved the highest rank of Eagle Scout in the Boy Scouts of America.
 
 A data-driven personal website
 ======
