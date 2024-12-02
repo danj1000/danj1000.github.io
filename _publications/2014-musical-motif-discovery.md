@@ -1,7 +1,7 @@
 ---
 title: "Musical Motif Discovery in Non-musical Media"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2014-musical-motif-discovery
 date: 2014-06-07
 venue: 'Proceedings of the 5th International Conference on Computational Creativity'
