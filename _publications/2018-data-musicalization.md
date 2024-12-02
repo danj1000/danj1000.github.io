@@ -3,10 +3,8 @@ title: "Data Musicalization"
 collection: publications
 category: manuscripts
 permalink: /publication/2018-data-musicalization
-excerpt: 'This paper discusses automatic music composition using machine learning techniques'
 date: 2018-04-25
 venue: 'ACM Transactions on Multimedia Computing Communications and Applications'
-slidesurl: '#'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3184742'
 citation: 'Aurora Tulilaulu, Matti Nelimarkka, Joonas Paalasmaa, Daniel Johnson, Dan Ventura and Hannu Toivonen, "Data Musicalization", ACM Transactions on Multimedia Computing Communications and Applications, 14(2):47, 2018'
 ---
