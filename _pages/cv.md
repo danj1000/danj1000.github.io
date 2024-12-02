@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, University of Utah, 2028 (expected)
+* MS in Computer Science, Brigham Young University, 2014
+* BM in Music (Minor in Computer Science), Brigham Young University, 2011
 
 Work experience
 ======
@@ -34,12 +34,31 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* PyTorch
+* Machine Learning
+* Java
+* SQL
+* MongoDB
+* PHP / Hack
+* C#
+* C++
+* Various Testing Frameworks
+* AWS (Lambda, ECS, SageMaker, CloudFormation)
+* Jenkins
+* Docker
+* Keras
+* TensorFlow
+* JavaScript
+* Git
+* Clojure
+* Power BI
+* Deep Learning
+* Microsoft Azure
+* Linux
+* Bash Scripting
+* REST
+* JSON
 
 Publications
 ======
