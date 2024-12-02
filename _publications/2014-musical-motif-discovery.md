@@ -3,6 +3,7 @@ title: "Musical Motif Discovery in Non-musical Media"
 collection: publications
 category: conferences
 permalink: /publication/2014-musical-motif-discovery
+excerpt: 'This paper discusses automatic music composition using machine learning techniques'
 date: 2014-06-07
 venue: 'Proceedings of the 5th International Conference on Computational Creativity'
 slidesurl: '#'
