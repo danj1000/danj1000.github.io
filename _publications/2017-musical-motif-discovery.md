@@ -3,10 +3,8 @@ title: "Musical motif discovery from non-musical inspiration sources"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-musical-motif-discovery
-excerpt: 'This paper discusses automatic music composition using machine learning techniques'
 date: 2017-01-10
 venue: 'Computers in Entertainment (CIE)'
-slidesurl: '#'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/2888403'
 citation: 'Daniel Johnson and Dan Ventura, "Musical Motif Discovery from Non-Musical Inspiration Sources", ACM Computers in Entertainment--Special Issue on Musical Metacreation, 14(2):7, 2017'
 ---
