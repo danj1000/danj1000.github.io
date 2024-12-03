@@ -15,6 +15,8 @@ Additionally, many of my roles have been focused on applied ML. For example, at 
 
 Before my experiences in industry and university, I was a high school valedictorian and also achieved the highest rank of Eagle Scout in the Boy Scouts of America.
 
+[curriculum vitae](https://danj1000.github.io/Daniel_Johnson_CV.pdf)
+
 <!---
 A data-driven personal website
 ======
