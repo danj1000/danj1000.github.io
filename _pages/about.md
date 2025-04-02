@@ -13,7 +13,7 @@ Prior to returning to school for a PhD, I received a master's degree in computer
 
 Additionally, many of my roles have been focused on applied ML. For example, at Meta I built ML models to rank comment ordering on popular Facebook posts. At Medidata, I worked with data scientists to tune ML models and deploy them in AWS SageMaker. At Clearwater Analytics, I improved deep learning models used for NLP sequence labeling. 
 
-Before my experiences in industry and university, I was a high school valedictorian and also achieved the highest rank of Eagle Scout in the Boy Scouts of America. In my free time, I enjoy [playing piano](https://www.youtube.com/@DanPianoManOfficial), baking bread, [juicing](https://makeitvegan.com/nama-j2-juicer/), and spending time with my wife and daughters.
+Before my experiences in industry and university, I was a high school valedictorian and also achieved the highest rank of Eagle Scout in the Boy Scouts of America. In my free time, I enjoy [playing piano](https://www.youtube.com/@DanPianoManOfficial), baking bread, [juicing](https://makeitvegan.com/nama-discount-code/), and spending time with my wife and daughters.
 
 [Curriculum Vitae](https://danj1000.github.io/Daniel_Johnson_CV.pdf)
 
